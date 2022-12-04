@@ -1,9 +1,26 @@
 body {
-    margin:0;
-    padding:0;
-    background:#000;
+    margin: 0;
+    padding: 0;
+    background: #000;
 }
- 
+
 canvas {
-    display:block;
+    display: float;
+    margin-left: 2px;
+    margin-top: 20px;
+    position: fixed;
+    left: 110px;
+    border-style: dotted;
+    border-color: blue;
+}
+
+.ShipList {
+    display: float;
+    border-color: aqua;
+    border-style: dashed;
+    color: azure;
+    margin-top: 20px;
+    position: fixed;
+    width: 98px;
+    height: 90%;
 }
